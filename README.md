@@ -1,3 +1,5 @@
+# When are Two Scores Better than One? Investigating Ensembles of Diffusion Models
+
 ## 🗂 Repository structure
 
 This is an initial version of the repository and will be completed for the final release.  It is organized into three main folders, each corresponding to a specific experimental setup:
