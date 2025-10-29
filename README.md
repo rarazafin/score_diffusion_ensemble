@@ -16,8 +16,10 @@ The implementations closely follow the authors’ original implementations.
 [1] Yang Song, Jascha Sohl-Dickstein, Diederik P. Kingma, Abhishek Kumar, Stefano Ermon, and Ben Poole.
 Score-based generative modeling through stochastic differential equations. In International Conference on
 Learning Representations, 2021b.
+
 [2] Jiaming Song, Chenlin Meng, and Stefano Ermon. Denoising diffusion implicit models. International Con-
 ference on Learning Representations, 2020.
+
 [3] Alexia Jolicoeur-Martineau, Kilian Fatras, and Tal Kachman. Generating and imputing tabular data via
 diffusion and flow-based gradient-boosted trees. In International Conference on Artificial Intelligence and
 Statistics, pp. 1288–1296. PMLR, 2024.
