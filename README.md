@@ -1,8 +1,10 @@
 # When are Two Scores Better than One? Investigating Ensembles of Diffusion Models
 
+This is an initial version of the repository and will be completed for the final release.  
+
 ## 🗂 Repository structure
 
-This is an initial version of the repository and will be completed for the final release.  It is organized into three main folders, each corresponding to a specific experimental setup:
+The repository is organized into three main folders, each corresponding to a specific experimental setup:
 
 - **`score_based_cifar10/`**  
   Contains experiments on the **CIFAR-10** dataset using **Score-Based Diffusion Models (SDE formulation [1])**. 
@@ -25,4 +27,3 @@ ference on Learning Representations, 2020.
 [3] Alexia Jolicoeur-Martineau, Kilian Fatras, and Tal Kachman. Generating and imputing tabular data via
 diffusion and flow-based gradient-boosted trees. In International Conference on Artificial Intelligence and
 Statistics, pp. 1288–1296. PMLR, 2024.
-
