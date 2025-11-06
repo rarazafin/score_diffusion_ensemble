@@ -1,0 +1,16 @@
+absl_py~=0.10.0
+kagglehub~=0.3.13
+matplotlib~=3.7.5
+ml_collections~=0.1.0
+numpy~=1.23.5
+pandas~=1.2.4
+scipy~=1.16.3
+seaborn~=0.13.2
+six~=1.15.0
+tensorflow~=2.4.0
+tensorflow_datasets~=3.1.0
+tensorflow_gan~=2.0.0
+tensorflow_hub~=0.16.1
+torch~=2.3.1+cu121
+torchvision~=0.18.1+cu121
+tqdm~=4.67.1
