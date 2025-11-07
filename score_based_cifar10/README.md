@@ -2,8 +2,8 @@
 
 The code is based on [this repository](https://github.com/yang-song/score_sde_pytorch).
 
-We provide [checkpoints](?) corresponding to models trained for 200k iterations in this setting.
-Reference statistics required for quantitative evaluation (along with the corresponding computation code) can be found in the original repository. Once the statistics files have been downloaded, place them in the `assets/stats` directory.
+We provide [checkpoints](https://drive.google.com/drive/folders/1uprGLUfGtMx__woTAnPtlj0TGYP2ZIpQ?usp=drive_link) corresponding to models trained for 200k iterations in this setting.
+Reference statistics required for quantitative evaluation (along with the corresponding computation code) can be found in the original repository. Once the [statistic files](https://drive.google.com/drive/folders/1uprGLUfGtMx__woTAnPtlj0TGYP2ZIpQ?usp=drive_link) have been downloaded, place them in the `assets/stats` directory.
 
 To install the necessary Python packages, run:
 ```sh
