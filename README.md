@@ -32,7 +32,7 @@ Statistics, pp. 1288–1296. PMLR, 2024.
 
 ### Dependencies
 
-Each subdirectory contains its own dependencies and a dedicated requirements.txt file. To install the necessary Python packages for a given module, navigate into the corresponding folder and run:
+Each subdirectory contains its own dependencies and a dedicated requirements.txt file. To install the necessary Python packages for a given experiment, navigate into the corresponding folder and run:
 ```sh
 pip install -r requirements.txt
 ```
@@ -42,12 +42,12 @@ pip install -r requirements.txt
 
 The code is based on [this repository](https://github.com/yang-song/score_sde_pytorch).
 
-We provide checkpoints corresponding to models trained for 200k iterations in this setting.
+We provide [checkpoints](?) corresponding to models trained for 200k iterations in this setting.
 Reference statistics required for quantitative evaluation (along with the corresponding computation code) can be found in the original repository. Once the statistics files have been downloaded, place them in the `assets/stats` directory.
 
 Below are example flag configurations used for our experiments to measure perceptual quality on deep ensemble. Use `cd` to navigate to the appropriate subdirectory before following the run instruction below.
 
-Indicate the name of the checkpoint file (without the .pth extension) with the flag `--ckpt`. The aggregation scheme is set vi `--agg`.
+Indicate the name of the checkpoint file (without the .pth extension) with the flag `--ckpt`. The aggregation scheme is set via `--agg`.
 
 * Base flags
 ```sh
@@ -78,7 +78,7 @@ python ensemble_FID_IS_KID.py $BASE_FLAGS $XP_FLAGS
 
 The code is based on [this repository](https://github.com/openai/guided-diffusion).
 
-We provide similarly to CIFAR-10 the checkpoints of the 4 models. Stats file is available her and computed similarly to CIFAR's ones.
+We provide similarly to CIFAR-10 the [checkpoints](?) of the 4 models. Stats file is available [here](?) and computed similarly to CIFAR-10's ones.
 
 Below are example flag configurations used for our experiments to measure perceptual quality on deep ensemble. Use `cd` to navigate to the appropriate subdirectory before following the run instruction below.
 
