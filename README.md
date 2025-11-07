@@ -1,5 +1,3 @@
-# Github README
-
 # When are Two Scores Better than One? Investigating Ensembles of Diffusion Models
 
 This is an initial version of the repository and will be completed for the final release.  
