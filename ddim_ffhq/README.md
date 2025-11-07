@@ -2,7 +2,7 @@
 
 The code is based on [this repository](https://github.com/openai/guided-diffusion).
 
-We provide similarly to CIFAR-10 the [checkpoints](?) of the 4 models. Stats file is available [here](?) and computed similarly to CIFAR-10's ones.
+We provide similarly to CIFAR-10 the [checkpoints](https://drive.google.com/drive/folders/1uprGLUfGtMx__woTAnPtlj0TGYP2ZIpQ?usp=drive_link) of the 4 models. Stats file is available [here](https://drive.google.com/drive/folders/1uprGLUfGtMx__woTAnPtlj0TGYP2ZIpQ?usp=drive_link) and computed similarly to CIFAR-10's ones.
 
 To install the necessary Python packages, run:
 ```sh
