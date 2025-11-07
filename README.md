@@ -42,8 +42,8 @@ pip install -r requirements.txt
 
 The code is based on [this repository](https://github.com/yang-song/score_sde_pytorch).
 
-We provide [checkpoints](?) corresponding to models trained for 200k iterations in this setting.
-Reference statistics required for quantitative evaluation (along with the corresponding computation code) can be found in the original repository. Once the statistics files have been downloaded, place them in the `assets/stats` directory.
+We provide [checkpoints](https://drive.google.com/drive/folders/1uprGLUfGtMx__woTAnPtlj0TGYP2ZIpQ?usp=drive_link) corresponding to models trained for 200k iterations in this setting.
+Reference statistics required for quantitative evaluation (along with the corresponding computation code) can be found in the original repository. Once the [statistics file](https://drive.google.com/drive/folders/1uprGLUfGtMx__woTAnPtlj0TGYP2ZIpQ?usp=drive_link) have been downloaded, place them in the `assets/stats` directory.
 
 Below are example flag configurations used for our experiments to measure perceptual quality on deep ensemble. Use `cd` to navigate to the appropriate subdirectory before following the run instruction below.
 
@@ -78,7 +78,7 @@ python ensemble_FID_IS_KID.py $BASE_FLAGS $XP_FLAGS
 
 The code is based on [this repository](https://github.com/openai/guided-diffusion).
 
-We provide similarly to CIFAR-10 the [checkpoints](?) of the 4 models. Stats file is available [here](?) and computed similarly to CIFAR-10's ones.
+We provide similarly to CIFAR-10 the [checkpoints](https://drive.google.com/drive/folders/1uprGLUfGtMx__woTAnPtlj0TGYP2ZIpQ?usp=drive_link) of the 4 models. Stats file is available [here](https://drive.google.com/drive/folders/1uprGLUfGtMx__woTAnPtlj0TGYP2ZIpQ?usp=drive_link) and computed similarly to CIFAR-10's ones.
 
 Below are example flag configurations used for our experiments to measure perceptual quality on deep ensemble. Use `cd` to navigate to the appropriate subdirectory before following the run instruction below.
 
