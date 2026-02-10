@@ -12,6 +12,8 @@
 
 ![teaser](figures/comparison_grid_long_inset_plot.svg)
 
+This repository contains the official implementation of the TMLR 2026 paper
+[When Are Two Scores Better Than One? Investigating Ensembles of Diffusion Models](https://arxiv.org/abs/2601.11444).
 
 ## Repository structure
 
