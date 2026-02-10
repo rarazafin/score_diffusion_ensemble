@@ -1,8 +1,7 @@
 # When are Two Scores Better than One? Investigating Ensembles of Diffusion Models
 
-[![paper](https://img.shields.io/badge/arXiv-xxxx.xxxxx-b31b1b.svg)](https://arxiv.org/abs/2601.11444)
+[![paper](https://img.shields.io/badge/arXiv-2601.11444-b31b1b.svg)](https://arxiv.org/abs/2601.11444) [![OpenReview](https://img.shields.io/badge/OpenReview-paper-blue)](https://openreview.net/forum?id=4iRx9b0Csu)
 
-Exemple réel :
 
 ## Repository structure
 
