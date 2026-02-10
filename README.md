@@ -1,4 +1,4 @@
-# When are Two Scores Better than One? Investigating Ensembles of Diffusion Models
+# When are Two Scores Better than One? Investigating Ensembles of Diffusion Models (Transactions on Machine Learning Research 2026)
 
 <p align="center">
   <a href="https://arxiv.org/abs/2601.11444">
@@ -129,5 +129,28 @@ To train and test our methods, make sure to navigate to the subdirectory, downlo
 python script_genetation.py --methods forest_diffusion --diffusion_type vp --forest_model random_forest --agg arithmetic --dataset airfoil_self_noise --n_batch 0 --nexp 3 --n_estimators 100 --ycond=False
 ```
 where `--n_estimators` is the desired number of trees and `--agg` is the aggregation scheme.
+
+## Acknowledgements
+
+This project builds upon ideas and code from the following repositories:
+
+- https://github.com/SamsungSAILMontreal/ForestDiffusion  
+- https://github.com/yang-song/score_sde_pytorch  
+- https://github.com/openai/guided-diffusion  
+
+We thank the authors for making their work publicly available.
+
+## Reference
+
+If you find this work useful, please cite:
+
+```
+@article{razafindralambo2026two,
+  title={When Are Two Scores Better Than One? Investigating Ensembles of Diffusion Models},
+  author={Razafindralambo, Raphël and Sun, Rémy and Precioso, Frédéric and Garreau, Damien and Mattei, Pierre-Alexandre},
+  journal={arXiv preprint arXiv:2601.11444},
+  year={2026}
+}
+```
 
 
