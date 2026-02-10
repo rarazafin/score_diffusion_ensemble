@@ -1,6 +1,15 @@
 # When are Two Scores Better than One? Investigating Ensembles of Diffusion Models
 
-[![paper](https://img.shields.io/badge/arXiv-2601.11444-b31b1b.svg)](https://arxiv.org/abs/2601.11444) [![OpenReview](https://img.shields.io/badge/OpenReview-paper-blue)](https://openreview.net/forum?id=4iRx9b0Csu)
+<p align="center">
+  <a href="https://arxiv.org/abs/2601.11444">
+    <img src="https://img.shields.io/badge/arXiv-2601.11444-b31b1b.svg">
+  </a>
+  <a href="https://openreview.net/forum?id=4iRx9b0Csu">
+    <img src="https://img.shields.io/badge/OpenReview-paper-blue">
+  </a>
+  <img src="https://img.shields.io/badge/License-MIT-green.svg">
+</p>
+
 
 
 ## Repository structure
