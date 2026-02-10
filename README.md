@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/License-MIT-green.svg">
 </p>
 
+![teaser](figures/comparison_grid_long_inset_plot.svg)
 
 
 ## Repository structure
